@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         val adapter = CartAppleRecyclerViewAdapter {
             Toast.makeText(this,
                 "Корзина вмещает только три яблока :(",
-                Toast.LENGTH_LONG).show()
+                Toast.LENGTH_SHORT).show()
         }
         recyclerView.adapter = adapter
         recyclerView.layoutManager = LinearLayoutManager(this)
