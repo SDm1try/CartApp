@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lecture5</string>
+    <string name="take_apple">Положить яблоко</string>
+    <string name="eat_apple">Съесть</string>
+    <string name="total_apples">всего яблок:</string>
+    <string name="delete_carts">удалить все корзины</string>
+    <string name="cart">Корзина</string>
+    <string name="total_apples_value">0</string>
+    <string name="add_cart">Добавить корзину</string>
+    <string name="apple">Яблоко</string>
+</resources>
